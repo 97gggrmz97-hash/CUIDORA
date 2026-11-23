@@ -1,0 +1,9 @@
+# Escopo aprovado — 23/11/2026
+
+Adicionar opções 01, 02, 04, 06, 03, 07, 08 e 09: evolução por voz com revisão; protocolos personalizados e licenciados; financeiro; indicadores longitudinais; portal família; comunicação interna; academia e biblioteca; offline protegido com sincronização e resolução de conflitos. Não adicionar opções 05 (check-in) e 10 (CAA) nesta revisão.
+
+## CUIDORA Educação — Aprendizagem e Desenvolvimento Pedagógico
+Área independente por perfil profissional, integrada ao cadastro autorizado. Avaliação pedagógica inicial: idade, ano escolar, currículo, contexto, interesses, habilidades, dificuldades observadas, estratégias anteriores, evidências e objetivos. IA identifica padrões e lacunas com indicação de fontes e incerteza, sem diagnóstico. Plano individual de reforço escolar e intervenção com metas mensuráveis, duração, frequência, atividades graduadas, adaptações, materiais e critérios de acompanhamento. Recursos lúdicos: jogos, histórias, cartões, atividades imprimíveis, leitura, escrita, matemática, atenção e organização; adequação à idade e acessibilidade. Registro de sessões, desempenho com e sem ajuda, evolução longitudinal, revisão de metas e proposta da próxima sessão. Orientações domiciliares aprovadas e compartilhamento restrito com responsáveis e escola quando autorizado. Profissional revisa, edita e aprova toda proposta antes de aplicação. Não inferir transtornos a partir de desempenho. Minimizar dados de menores, controle de acesso por função, proteção de dados, auditoria e testes fictícios. Não reproduzir instrumentos protegidos sem licença.
+
+## Sequência
+Preservar prioridade do ponto 1: backup e restauração hospedada. Implementar educação após infraestrutura, segurança e base de IA, em conjunto com cadastro, avaliações e planos; integrar portal familiar, indicadores e academia nas respectivas etapas. Este documento é planejamento, não comprovação de implementação funcional.

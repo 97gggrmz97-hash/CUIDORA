@@ -1,0 +1,11 @@
+{
+  "name": "cuidora",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test backup/crypto.test.mjs"
+  },
+  "dependencies": {
+    "@vercel/blob": "^2.0.0"
+  }
+}

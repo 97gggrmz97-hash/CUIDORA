@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --test backup/crypto.test.mjs modules/maps/regional.test.mjs"
+    "test": "node --test backup/crypto.test.mjs modules/maps/*.test.mjs"
   },
   "dependencies": {
     "@vercel/blob": "^2.0.0"
